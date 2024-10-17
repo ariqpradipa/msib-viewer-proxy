@@ -1,5 +1,5 @@
 {
-  "name": "my-hono-app",
+  "name": "msib-viewer-proxy",
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy --minify",
